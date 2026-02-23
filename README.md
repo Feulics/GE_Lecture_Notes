@@ -1,7 +1,7 @@
 # GE_Lecture_Notes
 Summaries for lectures taken for GE at Uni Bonn (WiSe 25/26 - ...).   
-No guarantees, summarised on personal preferences - rather too much than too few.  
-
+No guarantees, summarised on personal preferences - Motto: rather too much than too few.  
+Written via Joplin in Markdown and compiled as PDF.
 
 ## Information on the lectures:
 Abbreviation | Lecture  | Lecturer/Responsible | Semester | Status
