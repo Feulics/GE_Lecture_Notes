@@ -11,4 +11,4 @@ MGE_02| GNSS | Klingbeil | WiSe25/26 | final
 MGE_03| Statistics & Adjustment Theory | Bonerath | WiSe25/26 | in progress
 MGE_04| Computational Foundations of GIS | Haunert | WiSe25/26 | final
 MGE_05| Geodetic Earth Observation | Springer & Karegar | WiSe25/26 | in progress
-MGE_M101| Sensors and State Estimation | Klingbeil & Stachniss | WiSe25/26 | pre-final in Robotics part, in progress Mobile Sensing part
+MGE_M101| Sensors and State Estimation | Klingbeil & Stachniss | WiSe25/26 | pre-final
