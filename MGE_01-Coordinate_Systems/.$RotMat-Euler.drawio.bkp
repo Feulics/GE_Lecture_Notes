@@ -1,0 +1,126 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="aINF2H_ls-Jzz5j12V07">
+    <mxGraphModel dx="845" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="890" pageHeight="350" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;\begin{bmatrix} \cos \gamma \cos \beta &amp;amp; -\sin \gamma \cos \alpha + \cos \gamma \sin \beta \sin \alpha &amp;amp; \sin&amp;nbsp; \gamma \sin \alpha + \cos \gamma \sin \beta \cos \alpha \\ \sin \gamma \cos \beta &amp;amp; \cos \gamma \cos \alpha + \sin \gamma \sin \beta \sin \alpha &amp;amp; -\cos \gamma \sin \alpha + \sin \gamma \sin \beta \cos \alpha \\ - \sin \beta &amp;amp; \cos \beta \sin \alpha &amp;amp; \cos \beta \cos \alpha \end {bmatrix}&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="125" width="510" x="240" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;$$R_A(\alpha, \beta, \gamma) = R_3 (\gamma) R_2(\beta) R_1(\alpha) =$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="295" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-26" edge="1" parent="1" source="KKI_ASTvuBp32Rbea0m2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;" target="KKI_ASTvuBp32Rbea0m2-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="258" />
+              <mxPoint x="355" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#009900;" value="" vertex="1">
+          <mxGeometry height="30" width="325" x="245" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-29" edge="1" parent="1" source="KKI_ASTvuBp32Rbea0m2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;" target="KKI_ASTvuBp32Rbea0m2-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="200" />
+              <mxPoint x="80" y="148" />
+              <mxPoint x="149" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#FF8000;opacity=60;" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="112" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-28" edge="1" parent="1" source="KKI_ASTvuBp32Rbea0m2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;" target="KKI_ASTvuBp32Rbea0m2-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="148" />
+              <mxPoint x="197" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF8000;" value="" vertex="1">
+          <mxGeometry height="25" width="120" x="112" y="157" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-25" edge="1" parent="1" source="KKI_ASTvuBp32Rbea0m2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;" target="KKI_ASTvuBp32Rbea0m2-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="268" />
+              <mxPoint x="275" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#009900;opacity=60;" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="112" y="217" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-27" edge="1" parent="1" source="KKI_ASTvuBp32Rbea0m2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#009900;" target="KKI_ASTvuBp32Rbea0m2-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="268" />
+              <mxPoint x="420" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#009900;" value="" vertex="1">
+          <mxGeometry height="30" width="290" x="580" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-30" edge="1" parent="1" source="KKI_ASTvuBp32Rbea0m2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0050EF;" target="KKI_ASTvuBp32Rbea0m2-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="258" />
+              <mxPoint x="755" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#0050EF;opacity=60;" value="" vertex="1">
+          <mxGeometry height="26" width="321" x="247" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontColor=#0050EF;" value="$$\alpha = atan2 {(R_ {32}, R_ {33})}$$" vertex="1">
+          <mxGeometry height="30" width="60" x="695" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-31" edge="1" parent="1" source="KKI_ASTvuBp32Rbea0m2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0050EF;" target="KKI_ASTvuBp32Rbea0m2-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="803" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#0050EF;" value="" vertex="1">
+          <mxGeometry height="26" width="286" x="582" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontColor=#009900;" value="$$\beta = atan2 {(-R_ {31}, \sqrt { R_ {32}^2+ R_{33}^2})}$$" vertex="1">
+          <mxGeometry height="30" width="360" x="110" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontColor=#FF8000;" value="$$\gamma = atan2 {(R_ {21}, R_ {11})}$$" vertex="1">
+          <mxGeometry height="30" width="220" x="10" y="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;strokeColor=#FF8000;opacity=60;" value="" vertex="1">
+          <mxGeometry height="27.5" width="37" x="130" y="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#FF8000;" value="" vertex="1">
+          <mxGeometry height="27.5" width="35" x="180" y="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;strokeColor=#009900;opacity=60;" value="" vertex="1">
+          <mxGeometry height="27.5" width="55" x="247" y="293.25" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#009900;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="335" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#009900;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="400" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;strokeColor=#0050EF;opacity=60;" value="" vertex="1">
+          <mxGeometry height="28" width="38" x="736" y="280.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#0050EF;" value="" vertex="1">
+          <mxGeometry height="28" width="37" x="784" y="280.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KKI_ASTvuBp32Rbea0m2-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontFamily=Garamond;fontStyle=5" value="&lt;font&gt;Rotation Matrix to Euler Angles&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="870" x="10" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
